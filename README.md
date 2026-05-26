@@ -29,13 +29,13 @@ Some extra features I added:
 ## Screenshots
 
 ### Program Output
-![Output](screenshot1.png)
+![Output](output.png)
 
 ### Report File
-![Report](screenshot2.png)
+![Report](report.png)
 
 ### Best Agent CSV
-![CSV](screenshot3.png)
+![CSV](csv.png)
 
 ## What I learned
 
